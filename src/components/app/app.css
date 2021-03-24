@@ -1,0 +1,15 @@
+.toggle {
+    margin-bottom: 20px;
+    outline: none;
+}
+.app {
+    background: blue url('got.jpeg') center center no-repeat;
+    background-size: cover;
+    height: 1000px;	
+}
+
+@media screen and (max-width: 767px) {
+    .app {
+        height: 100%;	
+    }
+  }

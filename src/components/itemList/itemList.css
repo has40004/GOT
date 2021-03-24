@@ -1,0 +1,10 @@
+.item-list .list-group-item {
+    cursor: pointer;
+}
+.item-spiner{
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+}
+.spiner{
+   padding-top: 50px;
+}
